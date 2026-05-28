@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-  "start": "node src/server.js",
+  "start": "node server.js",
   "build": "echo build complete"
 },
   "private": true,
